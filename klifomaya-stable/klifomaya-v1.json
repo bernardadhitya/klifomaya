@@ -1,0 +1,104 @@
+{
+  "9FJZRbQULWZfg2r0tzvRR4IuqU43" : {
+    "profile" : {
+      "email" : "user4@test.com",
+      "major" : "Architecture",
+      "name" : "Doringin",
+      "phone" : "089512312164",
+      "role" : "member"
+    }
+  },
+  "9Po6UXlWLbRQ5gxuthSlIyO1iis1" : {
+    "profile" : {
+      "dob" : "1999-05-03T00:00:00.377Z",
+      "email" : "user2@test.com",
+      "major" : "Computer Science",
+      "name" : "Bernard",
+      "phone" : "089518312153",
+      "role" : "admin"
+    },
+    "uploads" : {
+      "-LLlnYYK6Vg7Myom5BQj" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-07T02:13:13.377Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2F-LLlnYYK6Vg7Myom5BQj..jpg?alt=media&token=720e99ab-0837-4b86-9fde-d013cb2fbf71",
+        "title" : "Indonesia ICT Award"
+      },
+      "-LLlne225BzBljYZk2j9" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-07T02:13:37.217Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2F-LLlne225BzBljYZk2j9..jpg?alt=media&token=a8e0e707-5a4d-47c4-9334-a5c77b70c46b",
+        "title" : "Kota Tua Meetup"
+      },
+      "-LLr4AFNr2SkV5ONGKV3" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-08T02:48:12.184Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2F-LLr4AFNr2SkV5ONGKV3..jpg?alt=media&token=538c7bc8-c180-4b9e-8d03-d28e5ae98b55",
+        "title" : "Bali Holiday"
+      },
+      "-LLzWdaIkotOidGuTsP7" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-09T18:09:35.228Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2F-LLzWdaIkotOidGuTsP7..jpg?alt=media&token=d1a53deb-6d91-4e48-9121-af08f20aa2bc",
+        "title" : "My Vacation"
+      },
+      "-LM11ggk1zrrACnHzCbb" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-10T05:53:03.697Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2F-LM11ggk1zrrACnHzCbb..jpg?alt=media&token=18beed6a-a6e7-47da-a351-f0899f15c77b",
+        "title" : "Adventure"
+      },
+      "-LMXRLU1PIyY45moiml9" : {
+        "creatorId" : "9Po6UXlWLbRQ5gxuthSlIyO1iis1",
+        "date" : "2018-09-16T12:52:43.973Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/9Po6UXlWLbRQ5gxuthSlIyO1iis1%2Fuploads%2Fborobudur.jpg..jpg?alt=media&token=60531c50-eeb5-419c-ad87-49beb40b0a37",
+        "title" : "Borobudur"
+      }
+    }
+  },
+  "EiS34SkkSYfStViRprYmoxbZ0jf1" : {
+    "profile" : {
+      "email" : "user3@test.com",
+      "major" : "Food Technology",
+      "name" : "Abdullah",
+      "phone" : "087887654321",
+      "role" : "member"
+    }
+  },
+  "mUryrpRYbja5MYmpSNZuNSSV7AC3" : {
+    "profile" : {
+      "dob" : "2000-08-01T00:00:00.377Z",
+      "email" : "user1@test.com",
+      "major" : "Business Creation",
+      "name" : "Mary",
+      "phone" : "087812345678",
+      "role" : "member"
+    },
+    "uploads" : {
+      "-LLlnxbwjfR52yMopRGl" : {
+        "creatorId" : "mUryrpRYbja5MYmpSNZuNSSV7AC3",
+        "date" : "2018-09-07T02:14:58.088Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/mUryrpRYbja5MYmpSNZuNSSV7AC3%2Fuploads%2F-LLlnxbwjfR52yMopRGl..jpg?alt=media&token=244fbdcf-4b94-4e22-a6b3-aaaa0a9019cc",
+        "title" : "Rinjani Hiking"
+      },
+      "-LLloOLjDZ6NRCzm-9N3" : {
+        "creatorId" : "mUryrpRYbja5MYmpSNZuNSSV7AC3",
+        "date" : "2018-09-07T02:15:28.763Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/mUryrpRYbja5MYmpSNZuNSSV7AC3%2Fuploads%2F-LLloOLjDZ6NRCzm-9N3..jpg?alt=media&token=317537f2-727d-43b0-b9a7-521b27ac3436",
+        "title" : "Borobudur Meetup"
+      },
+      "-LLltM-AeHQAoCCLARPA" : {
+        "creatorId" : "mUryrpRYbja5MYmpSNZuNSSV7AC3",
+        "date" : "2018-09-07T02:38:01.131Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/mUryrpRYbja5MYmpSNZuNSSV7AC3%2Fuploads%2F-LLltM-AeHQAoCCLARPA..jpg?alt=media&token=910c86c7-d5be-4f48-a6a1-bb3fce336e2c",
+        "title" : "Monas Meetup"
+      },
+      "-LLzSRXCRMoIn-1PwdR9" : {
+        "creatorId" : "mUryrpRYbja5MYmpSNZuNSSV7AC3",
+        "date" : "2018-09-09T17:50:53.000Z",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/klifomaya.appspot.com/o/mUryrpRYbja5MYmpSNZuNSSV7AC3%2Fuploads%2F-LLzSRXCRMoIn-1PwdR9..jpg?alt=media&token=97989153-4ab4-4e37-922f-2b245f75eb4a",
+        "title" : "Prambanan Meeting"
+      }
+    }
+  }
+}
