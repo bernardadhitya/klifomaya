@@ -18,4 +18,4 @@ Teachers can monitor their students using Klifomaya. Teachers can track attendan
 
 ![](src/6.png)
 
-As for their database system, we used Firebase. It is a JSON-based data structure, which is simple and robust to use. Since the purpose of Klifomaya is to track attendance and assignments, we only need a simple data structure that can store personal informations, attendance and student's upload. Hence, we picked Firebase.
+As for their database system, we used Firebase. It is a JSON-based data structure, which is simple and robust to use. Since the purpose of Klifomaya is to track attendance and assignments, we only need a simple data structure that can store personal informations, attendance and student's upload. Hence, we picked Firebase. 
